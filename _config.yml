@@ -14,7 +14,7 @@ timezone: America/Santo_Domingo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Neo Path by NeoVerSoft # the main title
+title: NeoPath # the main title
 
 tagline: Programación • Data Science • Inteligencia Artificial # it will display as the subtitle
 
@@ -34,8 +34,9 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: NeoVerSoft
+  name: neopath
   email: example@domain.com # change to your email address
+  fediverse_handle: "@you@domain.com" # change to your fediverse handle or leave empty
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
