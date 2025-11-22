@@ -14,22 +14,22 @@ timezone: America/Santo_Domingo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: NeoPath # the main title
+title: The Neo Path by neoversoft # the main title
 
-tagline: Programación • Data Science • Inteligencia Artificial # it will display as the subtitle
+tagline: Programación • Data Science • Inteligencia Artificial • Aprendizaje continuo # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Mi camino hacia convertirme en un desarrollador senior, científico de datos e ingeniero de IA.
+  Desarrollador senior compartiendo mi camino hacia convertirme en un científico de datos e ingeniero de inteligencia artificial.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://neoversoft.com"
 
 github:
-  username: github_username # change to your GitHub username
+  username: JDAlfredo_DA # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: neoversoft # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -39,8 +39,8 @@ social:
   fediverse_handle: "@you@domain.com" # change to your fediverse handle or leave empty
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/JDAlfredo_DA # change to your Twitter homepage
+    - https://github.com/JDAlfredo_DA # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -96,10 +96,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+cdn: "https://res.cloudinary.com/dwroljclv/image/upload"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/v1763513644/wviwj5fkkyweyxrouvgu_nbj8zx.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -131,6 +131,8 @@ comments:
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
+
+
 assets:
   self_host:
     enabled: # boolean, keep empty means false
